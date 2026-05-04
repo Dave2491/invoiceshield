@@ -5,7 +5,11 @@ Confidential Invoice Financing powered by Fully Homomorphic Encryption (FHE).
 InvoiceShield enables businesses to submit financial data and receive financing decisions without exposing sensitive information onchain.
 
 ---
+## Live Application
+https://invoiceshield-rose.vercel.app
 
+## Demo Video
+https://drive.google.com/file/d/1VOkHnWfAl5m9FVh8CGuvNv_ZfWCrihTq/view?usp=sharing
 ## 🧠 Problem
 
 Blockchains are transparent by design.
@@ -78,10 +82,9 @@ InvoiceShield demonstrates how FHE enables **confidential lending and underwriti
 ## 🧪 Features
 
 - Encrypted invoice submission  
-- Multi-factor private evaluation  
+- Multi-factor private evaluation  git add README.md
 - Onchain computation using FHE  
-- User-controlled decryption  
-- Clean and responsive UI  
+ 
 
 ---
 
@@ -177,12 +180,6 @@ Sepolia Testnet
 ```
 0x014978b112861952529CF2b75DEe809A2520e617
 ```
-
----
-## 🎥 Demo
-
-Watch the demo here:  
-https://your-video-link
 
 ---
 ## 📌 Summary
