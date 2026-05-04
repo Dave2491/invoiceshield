@@ -10,6 +10,16 @@ https://invoiceshield-rose.vercel.app
 
 ## Demo Video
 https://drive.google.com/file/d/1VOkHnWfAl5m9FVh8CGuvNv_ZfWCrihTq/view?usp=sharing
+
+---
+
+## Usage Notes
+
+- This application is optimized for desktop wallet environments  
+- Use a browser wallet such as MetaMask on the Sepolia network  
+
+---
+
 ## 🧠 Problem
 
 Blockchains are transparent by design.
